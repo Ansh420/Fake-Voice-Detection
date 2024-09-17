@@ -22,7 +22,7 @@ $ Clone the Repository:
 
 $ Bash
 
-$ git clone https://github.com/your-username/fake-speech-detection-conformer.git
+$ https://github.com/Ansh420/Fake-Voice-Detection.git
 
 Use code with caution.
 
