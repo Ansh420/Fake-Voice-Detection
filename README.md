@@ -19,23 +19,31 @@ http://www.asvspoof.org/index2019.html
 $ Clone the Repository:
 
 $ Bash
+
 $ git clone https://github.com/your-username/fake-speech-detection-conformer.git
+
 Use code with caution.
 
 ## Install Dependencies:
 
 - Bash
 - pip install -r requirements.txt
+
 Use code with caution.
 
 ## Prepare the Data:
 
 Create a directory structure to organize your data. For example:
 - data/
-├── train/
-│   ├── genuine/
-│   └── spoof/
-└── test/
+  
+    ├── train/
+  
+    │   ├── genuine/
+  
+    │   └── spoof/
+  
+    └── test/
+  
 Place the ASVspoof2019 dataset files into the appropriate directories.
 
 
