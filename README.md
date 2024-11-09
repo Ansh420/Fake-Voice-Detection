@@ -20,18 +20,11 @@ http://www.asvspoof.org/index2019.html
 ## Usage
 $ Clone the Repository:
 
-$ Bash
-
 $ https://github.com/Ansh420/Fake-Voice-Detection.git
-
-Use code with caution.
 
 ## Install Dependencies:
 
-- Bash
 - pip install -r requirements.txt
-
-Use code with caution.
 
 ## Prepare the Data:
 
