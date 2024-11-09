@@ -7,12 +7,12 @@ This repository provides a Python implementation of a Conformer model for fake s
 ## Prerequisites
 Before you can run the code, ensure you have the following installed:
 
-- Python 3.6 or later
-- NumPy
-- SciPy
-- TensorFlow or PyTorch
-- Librosa
-- tqdm
+- Python 3.6 or later.
+- NumPy.
+- SciPy.
+- TensorFlow or PyTorch.
+- Librosa.
+- tqdm.
 ## Dataset
 The ASVspoof2019 dataset is required for training and evaluation. You can download it from the official ASVspoof website: 
 http://www.asvspoof.org/index2019.html
