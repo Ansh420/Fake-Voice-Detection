@@ -39,7 +39,7 @@ Create a directory structure to organize your data. For example:
   
     └── test/
   
-Place the ASVspoof2019 dataset files into the appropriate directories.
+Place the **ASVspoof2019 dataset** files into the appropriate directories.
 
 
 ## Model Architecture
